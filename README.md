@@ -1,2 +1,4 @@
 # chat-app
-front-end-challenge
+this is a front End mentor challenge 
+
+Thanks for watching this challenge.❤
