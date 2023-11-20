@@ -1,2 +1,2 @@
 # chat-app
-front-end-template
+front-end-challenge
