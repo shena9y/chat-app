@@ -4,8 +4,8 @@ this is a front End mentor challenge
 Thanks for watching this challenge.❤
 
 # my profile in github :
-https://github.com/shena9y
-
+[#shena9y](https://github.com/shena9y
+)
 
 ## demo link :
-https://shena9y.github.io/chat-app/
+[#Demo](https://shena9y.github.io/chat-app/)
